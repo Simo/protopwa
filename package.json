@@ -1,0 +1,15 @@
+{
+  "name": "proto-PWA",
+  "version": "1.0.0",
+  "description": "Esempio di PWA.",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -c-1"
+  },
+  "keywords": [],
+  "author": "Simone Bierti",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
